@@ -96,7 +96,7 @@
 </head>
 <body>
    <header style="display: flex; align-items: center; padding: 1rem; background-color: #fff; color: #333;">
-    <img src="JPM Logo.png" alt="Your Logo" style="max-width: 80px; margin-right: 1rem;">
+    <img src="JPM Logo2.png" alt="JPM Official Logo" style="max-width: 80px; margin-right: 1rem;">
     <h1 style="margin: 0;">JADE MACAAMBAC, CSP, CST, OSH-SO3</h1>
     </header>
 
@@ -124,6 +124,18 @@
             <strong>Lean Six Sigma White Belt</strong><br>
             ASQ Certified MBB - 65316044<br>
             February 1, 2023<br><br>
+
+            <strong>Project Management and Leadership 101</strong><br>
+            MST CONNECT - OCE-2022-062<br>
+            August 2023<br><br>
+
+            <strong>FRONT OFFICE SERVICES NC II</strong><br>
+            TESDA<br>
+            May 2023<br><br>
+
+            <strong>Operations Risk Management 101</strong><br>
+            MST CONNECT - OCE-2022-062<br>
+            July 2023<br><br>
 
             <strong>Loss Control Management and HIRAC (SO3)</strong><br>
             DOLE Prescribed 40-Hour Training Course in LCM<br>
