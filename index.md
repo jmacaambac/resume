@@ -23,21 +23,21 @@
             margin: 0;
         }
         
-button {
-    background-color: #6b4f4f;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-    border-radius: 5px;
-}
+        button {
+            background-color: #6b4f4f;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            border-radius: 5px;
+        }
 
-button:hover {
-    background-color: #b47b7b;
-    transform: scale(1.1);
-}
+        button:hover {
+            background-color: #b47b7b;
+            transform: scale(1.1);
+        }
 
         section {
             padding: 2rem;
