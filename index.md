@@ -22,22 +22,22 @@
         header h1 {
             margin: 0;
         }
+        
+button {
+    background-color: #6b4f4f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    border-radius: 5px;
+}
 
-        nav {
-            text-align: center;
-            margin: 1rem 0;
-        }
-
-        nav a {
-            text-decoration: none;
-            color: #333;
-            margin: 0 1rem;
-            font-weight: bold;
-        }
-
-        nav a:hover {
-            color: #007BFF;
-        }
+button:hover {
+    background-color: #b47b7b;
+    transform: scale(1.1);
+}
 
         section {
             padding: 2rem;
@@ -100,20 +100,20 @@
     <h1 style="margin: 0;">JADE MACAAMBAC, CSP, CST, OSH-SO3</h1>
     </header>
 
-    <nav>
+    <button>
         <a href="#about">About</a>
         <a href="#skills">Skills</a>
         <a href="#experience">Experience</a>
         <a href="#projects">Projects</a>
         <a href="#contact">Contact</a>
-    </nav>
+    </button>
 
     <section id="about">
         <h2>About Me</h2>
         <div class="profile-picture">
             <img src="jade3.jpg" alt="Jade Macaambac">
         </div>
-        <p>A meticulously dedicated professional looking for a job as a Security Professional in a company where I can share my abilities and knowledge while being given opportunities for career growth.</p>
+        <p>A dedicated professional looking for a job as a Security Professional in a company where I can share my abilities and knowledge while being given opportunities for career growth.</p>
         <p><strong>"KRATOS"</strong></p>
         <div class="back-button"><a href="#">Mac am Back</a></div>
     </section>
