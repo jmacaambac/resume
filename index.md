@@ -101,11 +101,11 @@ button:hover {
     </header>
 
     <button>
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#experience">Experience</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
+        class="button"><a href="#about">About</a>
+        class="button"><a href="#skills">Skills</a>
+        class="button"><a href="#experience">Experience</a>
+        class="button"><a href="#projects">Projects</a>
+        class="button"><a href="#contact">Contact</a>
     </button>
 
     <section id="about">
