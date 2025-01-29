@@ -251,5 +251,5 @@
 
     <footer>
         <p>&copy; 2025 Jade Macaambac. All Rights Reserved.</p>
-        <p><a href="https://jmacaambac.github.io/jmwebsite/" target="_blank>Back to Home</a></p>
+        <div class=back-button"><a href="https://jmacaambac.github.io/jmwebsite/" target="_blank>Back to Home</a></div>
     </footer>
