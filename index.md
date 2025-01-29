@@ -245,13 +245,15 @@
             <p><a href="mailto:jade.macaambac@gmail.com">jade.macaambac@gmail.com</a></p>
             <p><a href="mailto:jade.macaambac@outlook.com">jade.macaambac@outlook.com</a></p>
         </div>
+        <div
+            <p><a href="https://jmacaambac.github.io/jmwebsite/" target="_blank>Back to Home</a></p>
+        </div>
         <div class="back-button"><a href="#">Mac am Back</a></div>
 
     </section>
 
     <footer>
-        <div
+
         <p>&copy; 2025 Jade Macaambac. All Rights Reserved.</p>
-        </div>
-        <div class=back-button"><a href="https://jmacaambac.github.io/jmwebsite/" target="_blank>Back to Home</a></div>
+       
     </footer>
