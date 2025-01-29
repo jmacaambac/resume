@@ -246,6 +246,8 @@
             <p><a href="mailto:jade.macaambac@outlook.com">jade.macaambac@outlook.com</a></p>
         </div>
         <div class="back-button"><a href="#">Mac am Back</a></div>
+
+        <div <p><a href="https://jmacaambac.github.io/jmwebsite/">Back to Home</a></p></div>
     </section>
 
     <footer>
