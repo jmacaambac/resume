@@ -244,12 +244,11 @@
             <p>+639988596060</p>
             <p><a href="mailto:jade.macaambac@gmail.com">jade.macaambac@gmail.com</a></p>
             <p><a href="mailto:jade.macaambac@outlook.com">jade.macaambac@outlook.com</a></p>
-         </div>
-         
-        <p><a href="https://jmacaambac.github.io/jmwebsite/" class="back-button">To Main Page</a></p>
        
-        </div>
+         </div>
     </section>
+    <class ="back-button">
+    <div <a href="https://jmacaambac.github.io/jmwebsite/">To Main Page"</a> </div>
 
     <footer>
 
