@@ -246,10 +246,9 @@
             <p><a href="mailto:jade.macaambac@outlook.com">jade.macaambac@outlook.com</a></p>
        
          </div>
+         <div class="back-button"><a href="https://jmacaambac.github.io/jmwebsite/">To Main Page</a></div>
     </section>
-    <class ="back-button">
-    <div <a href="https://jmacaambac.github.io/jmwebsite/">To Main Page"</a> </div>
-
+   
     <footer>
 
         <p>&copy; 2025 Jade Macaambac. All Rights Reserved.</p>
