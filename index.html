@@ -104,11 +104,33 @@
             margin-top: 2rem;
         }
     </style>
+    <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const audio = document.getElementById("bg-music");
+        const muteBtn = document.getElementById("mute-btn");
+        audio.oncanplaythrough = function() {
+            console.log("Audio is ready to play!");
+            audio.muted = false;
+        };
+        muteBtn.addEventListener("click", function () {
+            if (audio) {
+                audio.muted = !audio.muted;
+                if (audio.muted) {
+                    muteBtn.textContent = "🔊";
+                } else {
+                    muteBtn.textContent = "🔇";
+                }
+                console.log("Audio muted status:", audio.muted);
+            }
+        });
+    });
+</script>
 </head>
 <body>
     <header>
         <img src="JPM Logo2.png" alt="JPM Official Logo">
         <h1>JADE MACAAMBAC, CSP, CST, OSH-SO3</h1>
+        <span id="mute-btn" style="cursor: pointer; font-size: 24px;">🔇</span>
     </header>
 
     <div class="button-container">
@@ -261,5 +283,9 @@
     <footer>
         <p>&copy; 2025 Jade Macaambac. All Rights Reserved.</p>
     </footer>
+    <audio id="bg-music" autoplay loop>
+    <source src="sadsoul.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+     </audio>
 </body>
 </html>
